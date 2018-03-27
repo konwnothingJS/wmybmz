@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## You Konw Nothing Jon Snow
 
 You can use the [editor on GitHub](https://github.com/konwnothingJS/wmybmz/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
